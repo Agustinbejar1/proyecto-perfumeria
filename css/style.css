@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inconsolata:wght@200&family=Raleway:wght@400;700;900&display=swap");
+
+
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+
+header{
+    background-color: aquamarine;
+}
+
+.producto{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 5px;
+    padding: 10px;
+    border-style:inset;
+}
+
+p{
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.agregar{
+    font-weight: bold;
+    font;
+    background-color: black;
+}
+
+.agregar:hover{
+    background-color: rgb(233, 194, 180);
+}
+
+footer{
+    background-color: aquamarine;
+}
